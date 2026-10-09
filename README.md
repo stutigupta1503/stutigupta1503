@@ -9,9 +9,13 @@ B.Tech Computer Science and Engineering student at Dr. A.P.J. Abdul Kalam Techni
 ## 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, HTML, CSS
+
 **Frontend:** React, React Router, React Bootstrap, Bootstrap, Axios, EJS
+
 **Backend & APIs:** Node.js, Express.js, REST APIs
+
 **Database:** MongoDB, Mongoose
+
 **Tools:** Git, GitHub, VS Code
 
 ---
